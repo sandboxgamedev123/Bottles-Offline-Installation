@@ -1,7 +1,7 @@
 # Bottles-Offline-Install
 An installation of Bottles for those who want to install and use the program completely offline on a fresh installation of Linux.
 
-Please note that this installation is assuming a fresh installation of Linux with no additional flatpaks installed.
+Please note that this installation is assuming a fresh installation of Linux with no additional flatpaks installed. MangoHud is included as a separate package.
 
 The installation was conducted on a fresh installation of Linux Mint 21.2 Cinnamon x64 and was tested on two system configurations:
 
