@@ -13,7 +13,7 @@ NVIDIA GeForce GTX 1050 Ti (NVIDIA proprietary drivers were not installed at the
 
 AMD Ryzen 5 5600H
 
-AMD Radeon RX Vega 7 Graphics
+AMD Radeon RX Vega 7
 
 NVIDIA GeForce RTX 3060 (NVIDIA proprietary drivers were not installed at the time of installation)
 
