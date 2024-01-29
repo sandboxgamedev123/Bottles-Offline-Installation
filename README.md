@@ -11,15 +11,11 @@ Intel HD Graphics 630
 
 NVIDIA GeForce GTX 1050 Ti (NVIDIA proprietary drivers were not installed at the time of installation)
 
-
-
 AMD Ryzen 5 5600H
 
 AMD Radeon Vega 7 Graphics
 
 NVIDIA GeForce RTX 3060 (NVIDIA proprietary drivers were not installed at the time of installation)
-
-
 
 Bottles 51.10 Installation Information
 
@@ -42,3 +38,6 @@ The command for a "New Item" in "Edit menu":
 /usr/bin/flatpak run --branch=stable --arch=x86_64 --command=bottles --file-forwarding com.usebottles.bottles @@u %u @@
 
 The program can be launched from the "Menu".
+
+Bottles URL: https://github.com/bottlesdevs/Bottles
+MangoHud URL: https://github.com/flightlessmango/MangoHud
