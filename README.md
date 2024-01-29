@@ -4,7 +4,8 @@ An installation of Bottles for those who want to install and use the program com
 The packages provided:
 
 Bottles 51.10
-The package includes soda-8.0-2, wine-8.0.2, DXVK, and VKD3D.
+
+This package includes soda-8.0-2, wine-8.0.2, DXVK, and VKD3D.
 
 MangoHud 0.7.0
 
