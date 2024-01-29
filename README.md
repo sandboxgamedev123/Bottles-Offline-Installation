@@ -40,4 +40,5 @@ The command for a "New Item" in "Edit menu":
 The program can be launched from the "Menu".
 
 Bottles URL: https://github.com/bottlesdevs/Bottles
+
 MangoHud URL: https://github.com/flightlessmango/MangoHud
