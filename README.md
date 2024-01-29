@@ -6,12 +6,20 @@ Please note that this installation is assuming a fresh installation of Linux wit
 The installation was conducted on a fresh installation of Linux Mint 21.2 Cinnamon x64 and was tested on two system configurations:
 
 Intel Core i5-7300HQ
+
 Intel HD Graphics 630
+
 NVIDIA GeForce GTX 1050 Ti (NVIDIA proprietary drivers were not installed at the time of installation)
 
+
+
 AMD Ryzen 5 5600H
+
 AMD Radeon Vega 7 Graphics
+
 NVIDIA GeForce RTX 3060 (NVIDIA proprietary drivers were not installed at the time of installation)
+
+
 
 Bottles 51.10 Installation Information
 
