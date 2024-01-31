@@ -11,19 +11,23 @@ MangoHud 0.7.0
 
 Please note that the installation is assuming a fresh installation of Linux with no additional flatpaks installed.
 
-The installation was performed on a fresh installation of Linux Mint 21.2 Cinnamon x64 and was tested on two system configurations:
+The installation was performed on a fresh installation of Linux Mint 21.2 Cinnamon x64 and was tested on three system configurations:
+
+Intel Core 2 Duo P8400
+
+NVIDIA GeForce 9600M GT
 
 Intel Core i5-7300HQ
 
 Intel HD Graphics 630
 
-NVIDIA GeForce GTX 1050 Ti (NVIDIA proprietary drivers were not installed at the time of installation)
+NVIDIA GeForce GTX 1050 Ti (the NVIDIA proprietary driver was not installed at the time of installation)
 
 AMD Ryzen 5 5600H
 
 AMD Radeon RX Vega 7
 
-NVIDIA GeForce RTX 3060 (NVIDIA proprietary drivers were not installed at the time of installation)
+NVIDIA GeForce RTX 3060 (the NVIDIA proprietary driver was not installed at the time of installation)
 
 Bottles 51.10 Installation Information
 
