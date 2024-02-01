@@ -13,7 +13,7 @@ GL32.nvidia-535-54-03
 
 This package allows "Discrete Graphics" to be enabled for systems with NVIDIA GPUs that use the 535.54.03 proprietary driver.
 
-For information on how to install the 535.54.03 driver completely offline:
+For information on how to install the 535.54.03 proprietary driver completely offline:
 
 https://github.com/sandboxgamedev123/Linux-NVIDIA-Proprietary-Drivers-Offline-Installation-Guide
 
